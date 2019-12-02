@@ -1,0 +1,17 @@
+package Controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+
+public class EstadoController {
+
+	
+	@Autowired
+	private EstadoServices
+	
+	@GetMapping ("/Estados")
+	public String buscarTodosEstados() {return "Meu Estado";
+		
+	}
+	
+}

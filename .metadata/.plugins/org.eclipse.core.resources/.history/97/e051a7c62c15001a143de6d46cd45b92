@@ -1,0 +1,11 @@
+package DTO;
+
+public class EstadoDTO {
+
+	
+	@SuppressWarnings("unused")
+	private  Long id;
+	
+	private String nome;
+	
+}

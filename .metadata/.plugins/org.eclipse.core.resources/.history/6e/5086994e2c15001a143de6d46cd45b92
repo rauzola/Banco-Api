@@ -1,0 +1,10 @@
+package adapater;
+
+public class EstadoAdapter {
+ 
+	public static EstadoDTO transformaEntidadeParaDTO() {
+	
+		
+ }
+	
+}

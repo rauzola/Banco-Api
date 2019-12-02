@@ -1,0 +1,13 @@
+package Controller;
+
+import org.springframework.web.bind.annotation.GetMapping;
+
+public class EstadoController {
+
+	
+	@GetMapping ("/Estados")
+	public static void main(String [] ) {
+		
+	}
+	
+}

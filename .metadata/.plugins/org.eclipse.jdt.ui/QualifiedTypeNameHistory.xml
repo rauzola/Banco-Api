@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="br.com.db1.db1start.bancoapi.service.EstadoService"/>
+    <fullyQualifiedTypeName name="DTO.EstadoDTO"/>
+    <fullyQualifiedTypeName name="antlr.collections.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="br.com.db1.db1start.bancoapi.entity.Estado"/>
+    <fullyQualifiedTypeName name="adapater.EstadoAdapter"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PostMapping"/>
+    <fullyQualifiedTypeName name="br.com.db1.db1start.bancoapi.dto.EstadoFormDTO"/>
+</qualifiedTypeNameHistroy>

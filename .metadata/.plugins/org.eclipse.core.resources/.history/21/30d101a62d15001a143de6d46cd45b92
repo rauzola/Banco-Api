@@ -1,0 +1,15 @@
+package adapater;
+
+import DTO.EstadoDTO;
+
+public class EstadoAdapter {
+ 
+	public static EstadoDTO transformaEntidadeParaDTO( EstadoDTO) {
+	EstadoDTO dto = new EstadoDTO();
+	dto.setId(estado.getId());
+	dto.setNome(estado.getNome());
+	
+	
+ }
+	
+}

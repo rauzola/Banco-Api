@@ -1,0 +1,24 @@
+package Controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+
+import antlr.collections.List;
+import br.com.db1.db1start.bancoapi.service.EstadoService;
+
+public class EstadoController {
+
+	
+	@Autowired
+	private EstadoService estadoService;
+	
+	@GetMapping ("/Estados")
+	public List<EstadoDTO> buscarTodosEstados() {
+		List<Estado> estados = estados.buscarTodosEstados;
+		List<EstadoDTO> listaDeRetorno = new ArrayList;
+		return listaDeRetorno;
+		
+		
+	}
+	
+}
